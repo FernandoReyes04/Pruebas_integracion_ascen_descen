@@ -59,3 +59,11 @@ Para ejecutar la suite de pruebas completa (Top-Down y Bottom-Up), corre el sigu
 
 ```bash
 npm test
+```
+
+### 📈 Reporte de Cobertura
+
+Para generar un reporte que muestre qué porcentaje del código está cubierto por las pruebas, ejecuta:
+
+```bash
+npm test -- --coverage
