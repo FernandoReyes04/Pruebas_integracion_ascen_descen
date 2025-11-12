@@ -1,0 +1,17 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.3
+2 info using node@v22.20.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\ferna\Desktop\poke-api-testing\.npmrc
+5 silly config load:file:C:\Users\ferna\Desktop\poke-api-testing\etc\npmrc
+6 verbose title npm test
+7 verbose argv "test" "--loglevel" "silent" "--progress" "false" "--color" "false" "--unicode" "false" "--no-warnings" "--loglevel" "error" "--prefix" "." "--workspaces" "false" "--cache" ".npm_cache" "--no-audit" "--no-fund" "--loglevel" "silent" "--yes" "--foreground-scripts" "false" "--ignore-scripts" "true" "--timing" "false" "--userconfig" ".npmrc" "--metrics-registry" "https://registry.npmjs.org/" "--registry" "https://registry.npmjs.org/" "--script-shell" "powershell.exe" "--"
+8 verbose logfile logs-max:10 dir:C:\Users\ferna\Desktop\poke-api-testing\.npm_cache\_logs\2025-10-28T19_21_11_599Z-
+9 verbose logfile C:\Users\ferna\Desktop\poke-api-testing\.npm_cache\_logs\2025-10-28T19_21_11_599Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose cwd C:\Users\ferna\Desktop\poke-api-testing
+12 verbose os Windows_NT 10.0.26200
+13 verbose node v22.20.0
+14 verbose npm  v10.9.3
+15 verbose exit 0
+16 info ok

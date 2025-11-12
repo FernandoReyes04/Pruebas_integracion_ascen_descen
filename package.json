@@ -1,0 +1,22 @@
+{
+  "name": "poke-api-testing",
+  "version": "1.0.0",
+  "description": "Ejemplo de pruebas Top-Down con PokeAPI",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "Fer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "undici": "^5.22.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
+
